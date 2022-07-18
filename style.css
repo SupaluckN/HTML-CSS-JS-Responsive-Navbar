@@ -43,6 +43,7 @@ body {
     background-color: #a52d81
 }
 
+
 .toggle-button {
     position: absolute;
     top: 0.75rem;
@@ -54,6 +55,7 @@ body {
     height: 22px;
 }
 
+/* Hamburger Menu */
 .toggle-button .bar {
     height: 3px;
     width: 100%;
